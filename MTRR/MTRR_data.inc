@@ -1,0 +1,1 @@
+dyn_MTRR_avalible dq 0 ; how many?

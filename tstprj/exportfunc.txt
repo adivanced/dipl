@@ -1,0 +1,19 @@
+void** EFI_SYSTEM_TABLE;
+
+void* intfunc;
+
+uint64_t* counter;
+
+long long int init_hpet(uint64_t frequency|rax, void* int_vec|rbx, uint64_t timerN|rcx, uint64_t intN|rdx);
+
+void print_func(char* str|rax);
+
+char* tststr;
+
+void cvt2hex(char* strend|rdi, uint64_t number|rax);
+
+void get_MADT_BAR();
+
+void conf_LAPIC();
+
+void disable_PIC();

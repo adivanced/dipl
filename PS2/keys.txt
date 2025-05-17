@@ -1,0 +1,65 @@
+      ──────────────────────────────────────────────────────────────────────────
+       0   NUL '\0' (null character)  64   @         128   А         192   ю
+       1   SOH (start of heading)     65   A         129   Б         193   я
+       2   STX (start of text)        66   B         130   В         194
+       3   ETX (end of text)          67   C         131   Г         
+       4   EOT (end of transmission)  68   D         132   Д         
+       5   ENQ (enquiry)              69   E         133   Е         
+       6   ACK (acknowledge)          70   F         134   Ё
+       7   BEL '\a' (bell)            71   G         135   Ж
+       8   BS  '\b' (backspace)       72   H         136   З
+       9   HT  '\t' (horizontal tab)  73   I         137   И
+       10  LF  '\n' (new line)        74   J         138   Й
+       11  VT  '\v' (vertical tab)    75   K         139   К
+       12  FF  '\f' (form feed)       76   L         140   Л
+       13  CR  '\r' (carriage ret)    77   M         141   М
+       14  SO  (shift out)            78   N         142   Н
+       15  SI  (shift in)             79   O         143   О
+       16  DLE (data link escape)     80   P         144   П
+       17  DC1 (device control 1)     81   Q         145   Р
+       18  DC2 (device control 2)     82   R         146   С
+       19  DC3 (device control 3)     83   S         147   Т
+       20  DC4 (device control 4)     84   T         148   У
+       21  NAK (negative ack.)        85   U         149   Ф
+       22  SYN (synchronous idle)     86   V         150   Х
+       23  ETB (end of trans. blk)    87   W         151   Ц
+       24  CAN (cancel)               88   X         152   Ч
+       25  EM  (end of medium)        89   Y         153   Ш
+       26  SUB (substitute)           90   Z         154   Щ
+       27  ESC (escape)               91   [         155   Ъ
+       28  FS  (file separator)       92   \  '\\'   156   Ы
+       29  GS  (group separator)      93   ]         157   Ь
+       30  RS  (record separator)     94   ^         158   Э
+       31  US  (unit separator)       95   _         159   Ю
+       32  SPACE                      96   `         160   Я
+       33  !                          97   a         161   а
+       34  "                          98   b         162   б
+       35  #                          99   c         163   в
+       36  $                          100  d         164   г
+       37  %                          101  e         165   д
+       38  &                          102  f         166   е
+       39  '                          103  g         167   ё
+       40  (                          104  h         168   ж
+       41  )                          105  i         169   з
+       42  *                          106  j         170   и
+       43  +                          107  k         171   й
+       44  ,                          108  l         172   к
+       45  -                          109  m         173   л
+       46  .                          110  n         174   м
+       47  /                          111  o         175   н
+       48  0                          112  p         176   о
+       49  1                          113  q         177   п
+       50  2                          114  r         178   р
+       51  3                          115  s         179   с
+       52  4                          116  t         180   т
+       53  5                          117  u         181   у
+       54  6                          118  v         182   ф
+       55  7                          119  w         183   х
+       56  8                          120  x         184   ц
+       57  9                          121  y         185   ч
+       58  :                          122  z         186   ш
+       59  ;                          123  {         187   щ
+       60  <                          124  |         188   ъ
+       61  =                          125  }         189   ы
+       62  >                          126  ~         190   ь
+       63  ?                          127  DEL       191   э

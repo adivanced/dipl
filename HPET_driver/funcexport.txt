@@ -1,0 +1,1 @@
+long long int init_hpet(uint64_t frequency|rax, uint64_t int_vec|rbx, uint64_t timerN|rcx, uint64_t itN|rdx);
